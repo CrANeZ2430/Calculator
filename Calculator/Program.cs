@@ -1,4 +1,4 @@
-﻿string expression = Console.ReadLine();
+﻿string expression = Console.ReadLine()!;
 decimal coefficient = 0;
 decimal number = 0;
 
